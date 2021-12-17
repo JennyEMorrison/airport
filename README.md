@@ -10,8 +10,11 @@ As an air traffic controller
 So I can get passengers to a destination 
 I want to instruct a plane to land at an airport
 
-Ojects: passengers, plane, destination, airport
+Ojects: passengers, plane, destination, airport, weather
 behaviours: land plane 
+
+Plane <-- plane_landing --> true/false
+Airport <-- land/take_off --> a Plane
 
 As an air traffic controller 
 So I can get passengers on the way to their destination 
