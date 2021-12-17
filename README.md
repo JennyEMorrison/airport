@@ -36,4 +36,4 @@ As an air traffic controller
 To ensure safety 
 I want to prevent landing when weather is stormy 
 
-Currently passing forst 3 examples
+Currently passing first 3 examples
